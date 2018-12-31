@@ -1,0 +1,3 @@
+[submodule "nrmk_tools"]
+	path = nrmk_tools
+	url = https://github.com/rabarwick/NonRecursiveMakeTools.git
